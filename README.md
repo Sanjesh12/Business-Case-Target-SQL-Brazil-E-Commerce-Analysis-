@@ -50,7 +50,7 @@ This project analyzes **100,000+ e-commerce orders** from Target’s operations 
 ---
 
 ## 📂 Project Files  
-- 📄 **Report**: [Full PDF Report](#) *(add Google Drive link here)*  
+- 📄 **Report**: [Full PDF Report](#) *([Business Case – Target SQL](https://github.com/Sanjesh12/Business-Case-Target-SQL-Brazil-E-Commerce-Analysis-/blob/main/Business%20Case%20Target%20SQL%20(Sanjesh%20Chourasia).pdf))*  
 - 💻 **SQL Queries**: [SQL Scripts](#) *(add GitHub folder link here)*  
 
 ---
